@@ -1,0 +1,180 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/Shopify/sarama",
+			"repository": "https://github.com/Shopify/sarama",
+			"revision": "4faee6199919651f769e85fd97f1b3bf5739cb81",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/aerospike/aerospike-client-go",
+			"repository": "https://github.com/aerospike/aerospike-client-go",
+			"revision": "fae9606198eaaa55f37b0468c24684e941e4b817",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/ansel1/merry",
+			"repository": "https://github.com/ansel1/merry",
+			"revision": "2965e285d8fd4aa9346157984b6812ece7f80175",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/deckarep/golang-set",
+			"repository": "https://github.com/deckarep/golang-set",
+			"revision": "52ba7f28f319e9d560acbf47c7fcf9b9ee7aa7d3",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/eapache/go-resiliency/breaker",
+			"repository": "https://github.com/eapache/go-resiliency",
+			"revision": "ed0319b32e66e3295db52695ba3ee493e823fbfe",
+			"branch": "master",
+			"path": "/breaker"
+		},
+		{
+			"importpath": "github.com/eapache/queue",
+			"repository": "https://github.com/eapache/queue",
+			"revision": "ded5959c0d4e360646dc9e9908cff48666781367",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gin-gonic/contrib/expvar",
+			"repository": "https://github.com/gin-gonic/contrib",
+			"revision": "14f66d54cdb96059bafca98665bcc6d9df4951f2",
+			"branch": "master",
+			"path": "/expvar"
+		},
+		{
+			"importpath": "github.com/gin-gonic/gin",
+			"repository": "https://github.com/gin-gonic/gin",
+			"revision": "704d690ac0e25fcd060ff82f75f913e879e65a3c",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-errors/errors",
+			"repository": "https://github.com/go-errors/errors",
+			"revision": "a41850380601eeb43f4350f7d17c6bbd8944aaf8",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gogo/protobuf/gogoproto",
+			"repository": "https://github.com/gogo/protobuf",
+			"revision": "932b70afa8b0bf4a8e167fdf0c3367cebba45903",
+			"branch": "master",
+			"path": "/gogoproto"
+		},
+		{
+			"importpath": "github.com/gogo/protobuf/jsonpb",
+			"repository": "https://github.com/gogo/protobuf",
+			"revision": "932b70afa8b0bf4a8e167fdf0c3367cebba45903",
+			"branch": "master",
+			"path": "/jsonpb"
+		},
+		{
+			"importpath": "github.com/gogo/protobuf/proto",
+			"repository": "https://github.com/gogo/protobuf",
+			"revision": "932b70afa8b0bf4a8e167fdf0c3367cebba45903",
+			"branch": "master",
+			"path": "/proto"
+		},
+		{
+			"importpath": "github.com/gogo/protobuf/protoc-gen-gogo/descriptor",
+			"repository": "https://github.com/gogo/protobuf",
+			"revision": "932b70afa8b0bf4a8e167fdf0c3367cebba45903",
+			"branch": "master",
+			"path": "/protoc-gen-gogo/descriptor"
+		},
+		{
+			"importpath": "github.com/golang/snappy",
+			"repository": "https://github.com/golang/snappy",
+			"revision": "723cc1e459b8eea2dea4583200fd60757d40097a",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/google/gofuzz",
+			"repository": "https://github.com/google/gofuzz",
+			"revision": "e4af62d086c303f2bed467b227fc0a034b218916",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/google/protobuf",
+			"repository": "https://github.com/google/protobuf",
+			"revision": "0e606bc2eb5258193641d58a1ee7962983b33aa3",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/gorilla/securecookie",
+			"repository": "https://github.com/gorilla/securecookie",
+			"revision": "e95799a481bbcc3d01c2ad5178524cb8bec9f370",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/klauspost/crc32",
+			"repository": "https://github.com/klauspost/crc32",
+			"revision": "a5d1ea1c7bb4ad05a27df06491071dd6d45d1a08",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/manucorporat/sse",
+			"repository": "https://github.com/manucorporat/sse",
+			"revision": "fe6ea2c8e398672518ef204bf0fbd9af858d0e15",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/mattn/go-colorable",
+			"repository": "https://github.com/mattn/go-colorable",
+			"revision": "40e4aedc8fabf8c23e040057540867186712faa5",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/miekg/dns",
+			"repository": "https://github.com/miekg/dns",
+			"revision": "8395762c3490507cf5a27405fcd0e3d3dc547109",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/njern/gonexmo",
+			"repository": "https://github.com/njern/gonexmo",
+			"revision": "9064fa9db8f898dbeecd16d6bd14b9f6474f0a90",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/onsi/ginkgo",
+			"repository": "https://github.com/onsi/ginkgo",
+			"revision": "1b59c57df76ede42c08590546916e6a18685857d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/onsi/gomega",
+			"repository": "https://github.com/onsi/gomega",
+			"revision": "6331bf5a5b5e7a832348789eb3cedff7a6917103",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/sdming/gosnow",
+			"repository": "https://github.com/sdming/gosnow",
+			"revision": "3a05c415e886bd8d06522975d2c3458eafe93f04",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "db8e4de5b2d6653f66aea53094624468caad15d2",
+			"branch": "master",
+			"path": "/context"
+		},
+		{
+			"importpath": "gopkg.in/bluesuncorp/validator.v5",
+			"repository": "https://gopkg.in/bluesuncorp/validator.v5",
+			"revision": "98121ac23ff3d764f525d18d8de944d150e3c0fe",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/yaml.v2",
+			"repository": "https://gopkg.in/yaml.v2",
+			"revision": "7ad95dd0798a40da1ccdff6dff35fd177b5edf40",
+			"branch": "v2"
+		}
+	]
+}
